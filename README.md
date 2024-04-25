@@ -1,4 +1,4 @@
-# create-trains
+# Create-Trains
 
 In diesem Repository findest du Anleitungen und Angaben/Regelungen wie bestimmte Teile auf dem Create-Trains Server sein sollen.
 Außerdem befinden sich auch Schematics hier die benutzt werden dürfen (Hauptsächlich Züge).
